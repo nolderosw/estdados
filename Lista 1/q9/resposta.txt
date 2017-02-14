@@ -1,0 +1,5 @@
+Parametro Real          vs                  Parametro Formal
+
+nao pode ser alterado pela funcao	    Pode ser alterado pela função
+
+vida util até a função acabar sua execução  Permanece declarado até quando a função termina sua execução

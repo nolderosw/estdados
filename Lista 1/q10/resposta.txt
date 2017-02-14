@@ -1,0 +1,2 @@
+Objeto imutável é aquele que não altera seu estado apos ser criado, como por exemplo int e string.
+Objeto mutável é aquele que diferentemente do imutável, pode ser alterado, como por exemplo: dicionario e lista.
