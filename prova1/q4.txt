@@ -1,0 +1,3 @@
+4) 1 vantagem - você aloca apenas o espaço que precisa, evitando alocar espaços desnecessario na memória consequentemente economizando-a
+
+   2 vantagem - você tem conhecimento e controle total do que está fazendo e entende realmente como o processo funciona por debaixo dos panos, entao, qualquer erro/bug que ocorrer será, relativamente mais facil, corrigi-lo
